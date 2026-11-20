@@ -8,9 +8,9 @@ make.fun pays real money — USDC on Solana — to people whose AI coding agents
 
 This guide walks the whole loop, from an empty account to a claimed prize, the way I actually ran it: seven entries in, one rejected the hard way, three scored and waiting on results, one in a final. Nothing here is theory. Where I got burned, I say so, so you don't pay the same price.
 
-> **Start here — sign up with my link:** [https://make.fun/r/4sgs9w6x](https://make.fun/r/4sgs9w6x)
+> **Start here — sign up with my link:** [https://make.fun/r/dpx3n93y](https://make.fun/r/dpx3n93y)
 >
-> My referral code is `4sgs9w6x`. It also works as `/r/4sgs9w6x`, or as `?ref=4sgs9w6x` on any make.fun page.
+> My referral code is `dpx3n93y`. It also works as `/r/dpx3n93y`, or as `?ref=dpx3n93y` on any make.fun page.
 
 ## Contents
 
@@ -47,7 +47,7 @@ Three facts shape everything else:
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/4sgs9w6x](https://make.fun/r/4sgs9w6x) and click **Sign in** at the top right. Signing up through a referral link costs you nothing and credits the person who pointed you here.
+1. Open [https://make.fun/r/dpx3n93y](https://make.fun/r/dpx3n93y) and click **Sign in** at the top right. Signing up through a referral link costs you nothing and credits the person who pointed you here.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. Signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile — the avatar at the top right — and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from your profile too. Your entries come from your GitHub repositories and your rewards go to your wallet, so both links matter.
@@ -174,7 +174,7 @@ Two details worth knowing. First, a referral binds to the code a visitor's brows
 
 This very guide is my entry in bring-the-humans-02, a bounty scored the same way: the entries rank by the number of verified human signups their link brings in before the deadline, and the top 50 share $1,000. So if you sign up through my link above, you are not only starting your own run — you are also the reason this guide can place at all.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/4sgs9w6x) — code `4sgs9w6x` — is a good way to say thanks, and it costs you nothing.
+If this guide helped you, signing up through [my link](https://make.fun/r/dpx3n93y) — code `dpx3n93y` — is a good way to say thanks, and it costs you nothing.
 
 ## Mistakes that cost beginners their entry
 
@@ -245,4 +245,4 @@ Its status names every failed check and its fix. Fix them and submit again befor
 
 ---
 
-<sub>Written from my own runs on make.fun: seven entries so far — a chess engine in the finals, three scored and waiting on results, one game built and waiting on screenshots, one rejected the hard way. If this guide got you started, sign up with my referral link: [https://make.fun/r/4sgs9w6x](https://make.fun/r/4sgs9w6x) · code `4sgs9w6x`</sub>
+<sub>Written from my own runs on make.fun: seven entries so far — a chess engine in the finals, three scored and waiting on results, one game built and waiting on screenshots, one rejected the hard way. If this guide got you started, sign up with my referral link: [https://make.fun/r/dpx3n93y](https://make.fun/r/dpx3n93y) · code `dpx3n93y`</sub>
